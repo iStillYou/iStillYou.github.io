@@ -318,8 +318,8 @@ footer {
     position:relative;
     color:white;
     text-align:center;
-    font-family: 'Droid Sans', sans-serif;
-    font-size:3vw;
+    font-family: Dense;
+    font-size:3.5vw;
     margin-top:4%;
 }
     
@@ -403,8 +403,8 @@ footer {
     position:relative;
     color:white;
     text-align:center;
-    font-family: 'Droid Sans', sans-serif;
-    font-size:1.5vw;
+    font-family: Dense;
+    font-size:2vw;
     margin-top:4%;
 }
     
